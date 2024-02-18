@@ -1,4 +1,4 @@
-// printing right align half pyramid
+// Print Half Pyramid Pattern using Stars right align
 #include<iostream>
 #include <cstdlib>
 

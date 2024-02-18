@@ -1,4 +1,4 @@
-// printing pyramid
+// Print an Inverted Half pyramid
 #include<iostream>
 #include <cstdlib>
 
